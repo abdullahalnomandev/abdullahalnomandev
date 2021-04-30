@@ -18,9 +18,6 @@
 <br />
 
 
-<img width="550px" alt="Abdullah Al Noman Github Stats"  src="https://github-readme-stats.vercel.app/api?username=abdullahalnomanfb&show_icons=true"/>
-<br/>
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahalnomanfb&show_icons=true&locale=en" alt="abdullahalnomanfb" /></p>
 
