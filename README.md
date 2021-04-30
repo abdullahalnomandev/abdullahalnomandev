@@ -19,7 +19,8 @@
 
 
 <img width="550px" alt="Abdullah Al Noman Github Stats"  src="https://github-readme-stats.vercel.app/api?username=abdullahalnomanfb&show_icons=true"/>
+<br/>
 
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalnomanfb&card_width=550)](https://github.com/abdullahalnomanfb)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tasnuvatina&show_icons=true&locale=en" alt="tasnuvatina" /></p>
 
