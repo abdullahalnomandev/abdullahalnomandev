@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalnomanfb&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalnomnfb" /> </p>
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **abdullahalnoman1512@gmail.com**
 
