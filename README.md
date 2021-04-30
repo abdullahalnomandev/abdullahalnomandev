@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Noman</h1>
-<h3 align="center">I am a web Application Developer working with Javascript ,Reactjs,Nodejs,ExpressJs and Mongodb</h3>
+<h3 align="center">I am a web Font end web developer.I am working with Javascript ,Reactjs,Nodejs,ExpressJs and Mongodb</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalnomanfb&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalnomnfb" /> </p>
 
