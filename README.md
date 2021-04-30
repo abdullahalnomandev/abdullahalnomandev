@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React and Redux**
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **abdullahalnoman1512@gmail.com**
 
 ### Connect with me:
