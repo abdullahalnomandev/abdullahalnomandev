@@ -26,4 +26,4 @@
 
 - Node
 
-<img width="550px" alt="Solaiman Shadin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=solaimanshadin&show_icons=true"/>
+<img width="550px" alt="Abdullah Al Noman Github Stats"  src="https://github-readme-stats.vercel.app/api?username=abdullahalnomanfb&show_icons=true"/>
