@@ -21,7 +21,7 @@
 <img width="550px" alt="Abdullah Al Noman Github Stats"  src="https://github-readme-stats.vercel.app/api?username=abdullahalnomanfb&show_icons=true"/>
 
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/solaimanshadin/solaimanshadin)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalnomanfb&card_width=550)](https://github.com/abdullahalnomanfb)
 
 
 [programming]: https://www.programming-hero.com/
