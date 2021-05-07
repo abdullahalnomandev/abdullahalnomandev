@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalnomanfb&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalnomnfb" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱I like to take new challenges and work with new technology.
 
 - 📫 How to reach me **abdullahalnoman1512@gmail.com**
 
