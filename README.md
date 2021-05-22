@@ -26,7 +26,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderDaiyan&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="coderdaiyan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahalnomanfb&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="abdullahalnomanfb" /></p>
 
 
 
