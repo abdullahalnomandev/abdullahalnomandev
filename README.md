@@ -22,11 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahalnomanfb&show_icons=true&locale=en" alt="abdullahalnomanfb" /></p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahalnomanfb&show_icons=true&locale=en&layout=compact" alt="abdullahalnomanfb" /></p>
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahalnomanfb&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="abdullahalnomanfb" /></p>
-
-
-
