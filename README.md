@@ -23,4 +23,4 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahalnomanfb&show_icons=true&locale=en&layout=compact" alt="abdullahalnomanfb" /></p>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/solaimanshadin/solaimanshadin)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalnomanfb&card_width=550)](https://github.com/abdullahalnomanfb/abdullahalnomanfb)
