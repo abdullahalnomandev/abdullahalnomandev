@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Noman</h1>
 <h3 align="center">I am a MERN Stack web developer.I am working with Javascript ,Reactjs,Nodejs,ExpressJs and MongoDB</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalnomanfb&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalnomnfb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalnomandev&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalnomndev" /> </p>
 
 - 🌱I like to take new challenges and work with new technology.
 
@@ -33,7 +33,7 @@
   
   
 
-<img width="550px" alt="Abdullah Al Noman Github Stats"  src="https://github-readme-stats.vercel.app/api?username=abdullahalnomanfb&show_icons=true"/>
+<img width="550px" alt="Abdullah Al Noman Github Stats"  src="https://github-readme-stats.vercel.app/api?username=abdullahalnomandev&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalnomanfb&card_width=550)](https://github.com/abdullahalnomanfb/abdullahalnomanfb)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalnomandev&card_width=550)](https://github.com/abdullahalnomandev/abdullahalnomandev)
 
