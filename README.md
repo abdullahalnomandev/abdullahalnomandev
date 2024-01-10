@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Noman</h1>
-<h3 align="center">I am a MERN Stack web developer.I am working with Javascript ,Reactjs,Nodejs,ExpressJs and MongoDB</h3>
+<h3 align="center">I am a Full-Stack web developer. I am working with Javascript, Next.js, SQL, Nodejs, ExpressJs, and MongoDB</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalnomandev&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalnomndev" /> </p>
 
-- 🌱I like to take new challenges and work with new technology.
+- 🌱I like to take on new challenges and work with new technology.
 
 - 📫 How to reach me **abdullahalnoman1512@gmail.com**
 
