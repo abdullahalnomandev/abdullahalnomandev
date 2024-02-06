@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Noman</h1>
-<h3 align="center">I'm Full-Stack web developer. I am working with Javascript, Next.js, SQL, Nodejs, ExpressJs, and MongoDB</h3>
+<h3 align="center">I'm a Full-Stack web developer. Currently working with Next.js, Typescript, SQL, PostgreSQL, Node.js, Express, GraphQl, and MongoDB</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalnomandev&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalnomndev" /> </p>
 
