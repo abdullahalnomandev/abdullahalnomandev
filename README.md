@@ -5,8 +5,6 @@
 
 - 🌱I like to take on new challenges and work with new technology.
 
-- 📫 How to reach me **abdullahalnoman1512@gmail.com**
-
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/abdullahalnoman1) 
