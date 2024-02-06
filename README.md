@@ -10,8 +10,8 @@
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/abdullahalnoman1) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/abdullahalnoman1512)  
-[![Email](https://img.shields.io/badge/%20-Email-black?color=14171A&labelColor=1976d2&logo=gmail&logoColor=ffffff)](mailto:abdullahalnoman1512@gmail.com)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/abdullahalnoman1512) 
+[![E-mail](https://img.shields.io/badge/%20-Mail-black?color=14171A&labelColor=1976d2&logo=gmail&logoColor=red)](mailto:abdullahalnoman1512@gmail.com)
 
 ### Languages and Tools:
 ![](https://img.shields.io/badge/React-11303B?style=flat&logo=react&labelColor=344A53)
