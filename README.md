@@ -4,8 +4,7 @@
 🌱 I'm a Full-Stack web developer. Currently working with ***Next.js***, ***TypeScript***, ***SQL***, ***PostgreSQL***,***Node.js***, ***Express.js***, ***GraphQL***, and ***MongoDB***
 
 ⚡ I like to take on new challenges and work with new technology.
-
-🥅 2024 Goals: Microservice,Cloud-Container, Launching a new project this year (In Sha Allah), C, C++ (Problem-solving & Data Structure)
+🥅 2024 Goals: Microservice, Cloud-Container, Launching a new project this year (In Sha Allah), C, C++
 
 
 ### Connect with me:
