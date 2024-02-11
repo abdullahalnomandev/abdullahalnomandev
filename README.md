@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalnomandev&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalnomndev" /> </p>
 - 🔭 I’m currently working at [SELISE Digital Platforms][selise]!
+
 🌱I like to take on new challenges and work with new technology.
 
 ### Connect with me:
