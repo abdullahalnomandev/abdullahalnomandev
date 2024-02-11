@@ -7,7 +7,6 @@
 
 🥅 2024 Goals: Microservice, Cloud-Container, Launching a new project this year (In Sha Allah), C, C++
 
-
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/abdullahalnoman1) 
