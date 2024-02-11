@@ -1,4 +1,4 @@
-### Hi there, I'm  [Abdullah Al Noman][https://noman-dev.xyz] 👋
+### Hi there, I'm [Abdullah Al Noman](https://noman-dev.xyz) 👋
 <h1 align="center">Hi 👋, I'm Abdullah Al Noman</h1>
 
 <h3 align="center">I'm a Full-Stack web developer. Currently working with Next.js, TypeScript, SQL, PostgreSQL, Node.js, Express.js, GraphQL and MongoDB</h3>
