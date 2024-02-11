@@ -2,7 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalnomandev&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalnomndev" /> </p>
 
 🌱 I'm a Full-Stack web developer. Currently working with ***Next.js***, ***TypeScript***, ***SQL***, ***PostgreSQL***,***Node.js***, ***Express.js***, ***GraphQL***, and ***MongoDB***
+
 ⚡ I like to take on new challenges and work with new technology.
+
 🥅 2024 Goals: Microservice,Cloud-Container, Launching a new project this year (In Sha Allah), C, C++ (Problem-solving & Data Structure)
 
 
